@@ -1,0 +1,22 @@
+SMAP
+place_jsp.java
+JSP
+*S JSP
+*F
++ 0 place.jsp
+place.jsp
++ 1 menu.jsp
+template/menu.jsp
++ 2 header.jsp
+template/header.jsp
++ 3 footer.jsp
+template/footer.jsp
+*L
+5,26:51
+5#1,27:77
+30#0,5:103
+5#2,23:108
+34#0,32:130
+5#3,17:162
+65#0,22:178
+*E
